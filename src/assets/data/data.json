@@ -1,0 +1,241 @@
+[
+  {
+    "id": 1,
+    "cat_name": "новый",
+    "item": [
+      {
+        "id": 1,
+        "name": "UI/UX дизайнер",
+        "title": "Отдел разработки мобильного приложения",
+        "status": "В приоритете",
+        "candidates": 3,
+        "cv": "255",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Алексей Щербаков"
+      },
+      {
+        "id": 2,
+        "name": "Маркетолог",
+        "title": "Отдел маркетинга",
+        "status": "В приоритете",
+        "candidates": 2,
+        "cv": "182",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Floyd Miles"
+      },
+      {
+        "id": 3,
+        "name": "Менеджер по продажам",
+        "title": "Отдел продаж",
+        "status": "В приоритете",
+        "candidates": 3,
+        "cv": "255",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Алексей Щербаков"
+      },
+      {
+        "id": 4,
+        "name": "UI/UX дизайнер",
+        "title": "Отдел разработки мобильного приложения",
+        "status": "В приоритете",
+        "candidates": 3,
+        "cv": "255",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Vanessa Johnson"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "cat_name": "Текущие",
+    "item": [
+      {
+        "id": 5,
+        "name": "PHP Developer",
+        "title": "Housekeepers",
+        "status": "В приоритете",
+        "candidates": 3,
+        "cv": "182",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Kristin Watson"
+      },
+      {
+        "id": 6,
+        "name": "Freshers",
+        "title": "Finance",
+        "status": "Второстепенная",
+        "candidates": 3,
+        "cv": "182",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Jacob Jones"
+      },
+      {
+        "id": 7,
+        "name": "UI UX Designer",
+        "title": "Management",
+        "status": "В приоритете",
+        "candidates": 3,
+        "cv": "255",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Wade Warren"
+      },
+      {
+        "id": 8,
+        "name": "Joomla Developer",
+        "title": "Accounting",
+        "status": "Второстепенная",
+        "candidates": 3,
+        "cv": "255",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Cameron Williamson"
+      },
+      {
+        "id": 9,
+        "name": "Python Developerr",
+        "title": "Laundry",
+        "status": "В приоритете",
+        "candidates": 3,
+        "cv": "255",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Devon Lane"
+      },
+      {
+        "id": 10,
+        "name": "Freshers",
+        "title": "Finance",
+        "status": "Второстепенная",
+        "candidates": 3,
+        "cv": "255",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Jacob Jones"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "cat_name": "closed",
+    "item": []
+  },
+  {
+    "id": 4,
+    "cat_name": "archive",
+    "item": [
+      {
+        "id": 12,
+        "name": "UI/UX дизайнер",
+        "title": "Отдел разработки мобильного приложения",
+        "status": "В приоритете",
+        "candidates": 3,
+        "cv": "255",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Алексей Щербаков"
+      },
+      {
+        "id": 13,
+        "name": "Маркетолог",
+        "title": "Отдел маркетинга",
+        "status": "В приоритете",
+        "candidates": 2,
+        "cv": "182",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Floyd Miles"
+      },
+      {
+        "id": 14,
+        "name": "Менеджер по продажам",
+        "title": "Отдел продаж",
+        "status": "В приоритете",
+        "candidates": 3,
+        "cv": "255",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Алексей Щербаков"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "cat_name": "remote",
+    "item": [
+      {
+        "id": 16,
+        "name": "UI/UX дизайнер",
+        "title": "Отдел разработки мобильного приложения",
+        "status": "В приоритете",
+        "candidates": 3,
+        "cv": "255",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Алексей Щербаков"
+      },
+      {
+        "id": 17,
+        "name": "Маркетолог",
+        "title": "Отдел маркетинга",
+        "status": "В приоритете",
+        "candidates": 2,
+        "cv": "182",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Floyd Miles"
+      },
+      {
+        "id": 18,
+        "name": "Менеджер по продажам",
+        "title": "Отдел продаж",
+        "status": "В приоритете",
+        "candidates": 3,
+        "cv": "255",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Алексей Щербаков"
+      },
+      {
+        "id": 19,
+        "name": "UI/UX дизайнер",
+        "title": "Отдел разработки мобильного приложения",
+        "status": "В приоритете",
+        "candidates": 3,
+        "cv": "255",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Vanessa Johnson"
+      },
+      {
+        "id": 19,
+        "name": "UI/UX дизайнер",
+        "title": "Отдел разработки мобильного приложения",
+        "status": "В приоритете",
+        "candidates": 3,
+        "cv": "255",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Vanessa Johnson"
+      },
+      {
+        "id": 19,
+        "name": "UI/UX дизайнер",
+        "title": "Отдел разработки мобильного приложения",
+        "status": "В приоритете",
+        "candidates": 3,
+        "cv": "255",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Vanessa Johnson"
+      },
+      {
+        "id": 19,
+        "name": "UI/UX дизайнер",
+        "title": "Отдел разработки мобильного приложения",
+        "status": "В приоритете",
+        "candidates": 3,
+        "cv": "255",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Vanessa Johnson"
+      },
+      {
+        "id": 19,
+        "name": "UI/UX дизайнер",
+        "title": "Отдел разработки мобильного приложения",
+        "status": "В приоритете",
+        "candidates": 3,
+        "cv": "255",
+        "image": "https://s3-alpha-sig.figma.com/img/d2b2/f0d0/9ef316ad39546e370457caff2adbd41d?Expires=1657497600&Signature=L4-8tvGHLGX8AwnGRnSw-eGQ-csy~oqx4fAOtxgS~VFMn7AWqn4U3TuKT98b2jcusosQSyHIvY708HzeQ9yc9f~gGHgHHUoMbS9rMfjxo5n8Q5k2JMUPQPVGXva-nQjPuiPVPKCoUuh76oLq~1aS1bTuYILEkAJSyOhhtU10zY1rCSFrhbb4qQ9Uo~JcDcyyM9eplwB9TKocJMaw3C153RsCZmkUsUuh9c~tXH0ZwX6opQ-CPlrijZWYAim-2y4kALJ7lTXdLZPSO3XYUNRHLq1k779PuSTaA8srrLijqJE6rcneOT~TMAbd9R~5kOcde0OBQuZ8p59uFeiXqX5-lw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "hr_name": "Vanessa Johnson"
+      }
+    ]
+  }
+]
